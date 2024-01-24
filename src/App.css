@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  /* background-image: url('../public/wallppr.jpg'); */
+  background-color: rgb(125, 234, 48);
+  border: 5px solid black;
+  border-radius: 5px;
+  text-align: center;
+  height: 98vh;
+  background-size: contain;
+  background-repeat: no-repeat;
+  font-family: 'Sofia';
+
+}
